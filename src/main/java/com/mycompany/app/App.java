@@ -15,7 +15,7 @@ public class App
     }
 
     private final String getMessage() {
-        message = "Hello world!"
+        message = "Hello world!";
         return message;
     }
 
